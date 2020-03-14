@@ -16,7 +16,8 @@
 - The application removes the necessity of copy-pasting by simply highlighting the desired files, right-clicking, and selecting the appropriate option displayed in the Windows context menu
 
 # Usage (as of now)
-Building the project
+Building the project will generate **USBCore.dll** at path **USBEasy\bin\Release**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODE2ODUyOV19
+eyJoaXN0b3J5IjpbLTE5NTIzOTQ4MzcsMTQ3ODE2ODUyOV19
 -->
