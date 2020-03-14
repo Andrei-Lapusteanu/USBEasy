@@ -4,7 +4,7 @@
 
  The application represents a way to easily copy any file or folder to an attached flash drive
 
-<a href="https://imgur.com/XFm4aTB"><img src="https://i.imgur.com/XFm4aTB.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/u72SFW8"><img src="https://i.imgur.com/u72SFW8.png" title="source: imgur.com" /></a>
 
 # Technologies
 
@@ -18,5 +18,6 @@
 # Usage (as of now)
 Project files need to rearranged in order to be able to use the software (in the near future)!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU5MDM2MjcsMTQ3ODE2ODUyOV19
+eyJoaXN0b3J5IjpbLTE2OTM5OTExNSwtMTEwNTkwMzYyNywxND
+c4MTY4NTI5XX0=
 -->
