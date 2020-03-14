@@ -9,8 +9,8 @@
 # Technologies
 
 - Written in **C#**
-- Context menu functionalities implemented using **SharpContextMenu** - [https://github.com/dwmkerr/sharpshell/tree/master/SharpShell/SharpShell/SharpContextMenu](https://github.com/dwmkerr/sharpshell/tree/master/SharpShell/SharpShell/SharpContextMenu)
-- **SHFileOperation** API used to 
+- Context menu functionalities implemented using **SharpContextMenu** from the **SharpShell  - [https://github.com/dwmkerr/sharpshell/tree/master/SharpShell/SharpShell/SharpContextMenu](https://github.com/dwmkerr/sharpshell/tree/master/SharpShell/SharpShell/SharpContextMenu)
+- **SHFileOperation** API used to implement copying of file system objects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTQ3ODkzNV19
+eyJoaXN0b3J5IjpbLTE0MDc5MjY5MzZdfQ==
 -->
