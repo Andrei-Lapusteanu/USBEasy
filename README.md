@@ -8,7 +8,8 @@
 
 # Technologies
 
-
+- Written in **C#**
+- Contex
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTk5Mjk1M119
+eyJoaXN0b3J5IjpbLTEwODY5ODY3MTZdfQ==
 -->
