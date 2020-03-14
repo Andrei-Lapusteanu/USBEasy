@@ -9,8 +9,14 @@
 # Technologies
 
 - Written in **C#**
-- Context menu functionalities implemented using **SharpContextMenu** from the **SharpShell  - [https://github.com/dwmkerr/sharpshell/tree/master/SharpShell/SharpShell/SharpContextMenu](https://github.com/dwmkerr/sharpshell/tree/master/SharpShell/SharpShell/SharpContextMenu)
+- Context menu functionalities implemented using **SharpContextMenu** from the **SharpShell** NuGet - [https://github.com/dwmkerr/sharpshell/tree/master/SharpShell/SharpShell/SharpContextMenu](https://github.com/dwmkerr/sharpshell/tree/master/SharpShell/SharpShell/SharpContextMenu)
 - **SHFileOperation** API used to implement copying of file system objects
+
+# Functionality
+- The application removes the necessity of copy-pasting by simply highlighting the desired files, right-clicking, and selecting the appropriate option displayed in the Windows context menu
+
+# Usage (as of now)
+Building the project
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc5MjY5MzZdfQ==
+eyJoaXN0b3J5IjpbMTQ3ODE2ODUyOV19
 -->
