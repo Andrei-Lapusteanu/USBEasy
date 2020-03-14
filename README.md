@@ -9,7 +9,8 @@
 # Technologies
 
 - Written in **C#**
-- Contex
+- Context menu functionalities implemented using **SharpContextMenu** - [https://github.com/dwmkerr/sharpshell/tree/master/SharpShell/SharpShell/SharpContextMenu](https://github.com/dwmkerr/sharpshell/tree/master/SharpShell/SharpShell/SharpContextMenu)
+- **SHFileOperation** API used to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY5ODY3MTZdfQ==
+eyJoaXN0b3J5IjpbLTYzOTQ3ODkzNV19
 -->
